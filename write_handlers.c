@@ -1,6 +1,6 @@
 #include "main.h"
 
-/************************* WRITE HANDLE *************************/
+/************************* MPHATSO WAS HERE*************************/
 /**
  * handle_write_char - Prints a string
  * @c: char types.
